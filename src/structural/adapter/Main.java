@@ -10,7 +10,7 @@ public class Main {
         int x2 = 30, y2 = 60;
 
         for(IShape shape :shapes){
-            shape.draw(x1, y1, x2, y2);
+            shape.draw(x1, y1, x2, y2); //finish
         }
     }
 
